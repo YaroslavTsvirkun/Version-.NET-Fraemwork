@@ -1,0 +1,7 @@
+C:\Users\D\Desktop\Version .NET Fraemwork\Version .NET Fraemwork\obj\Debug\Version .NET Fraemwork.csprojResolveAssemblyReference.cache
+D:\!Documentation\!Projects\Version .NET Fraemwork\Version .NET Fraemwork\obj\Debug\Version .NET Fraemwork.csprojResolveAssemblyReference.cache
+D:\!Documentation\!Projects\Version .NET Fraemwork\Version .NET Fraemwork\bin\Debug\Version .NET Fraemwork.exe.config
+D:\!Documentation\!Projects\Version .NET Fraemwork\Version .NET Fraemwork\bin\Debug\Version .NET Fraemwork.exe
+D:\!Documentation\!Projects\Version .NET Fraemwork\Version .NET Fraemwork\bin\Debug\Version .NET Fraemwork.pdb
+D:\!Documentation\!Projects\Version .NET Fraemwork\Version .NET Fraemwork\obj\Debug\Version .NET Fraemwork.exe
+D:\!Documentation\!Projects\Version .NET Fraemwork\Version .NET Fraemwork\obj\Debug\Version .NET Fraemwork.pdb
